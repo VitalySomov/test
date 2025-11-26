@@ -8,3 +8,4 @@ print("''")
 =======
 print("local_update")
 >>>>>>> 1f2f578f5eed70742bc3225a42acbebbd21713b0
+Print("новый конфликт")
